@@ -2,7 +2,7 @@
 An AI based Image Editing and multilingual social media caption and hashtag generator
 
 ## Content Genie Demo Video 
-https://github.com/shreyassks/Image-Editing/assets/44189581/82c78d52-a02e-437d-b0ed-1034d1b83635
+https://github.com/shreyassks/Image-Editing/assets/44189581/83839630-5130-4381-833e-dbc2d4a83db3
 
 ### Google Slides Presentation
 https://docs.google.com/presentation/d/1pbDHA7DIuM8BArwQZqm8eD-PZJRn28eg/edit?usp=drive_link&ouid=113737295631185544437&rtpof=true&sd=true
