@@ -1,0 +1,7 @@
+venv
+app/artifacts
+.DS_Store
+.idea
+*.pyc
+app/assets
+dependencies/
